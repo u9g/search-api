@@ -1,7 +1,7 @@
 /**
  *
  * @param {string} searchTerm
- * @param {undefined | 'function' | 'event'} type
+ * @param {'all' | 'function' | 'event'} type
  * @returns
  */
 function search (md, input, type) {
